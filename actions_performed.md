@@ -21,6 +21,17 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 | 13 | **Eminevim** | Senior Software Engineer | 08.04.2026 | ✅ Başvuruldu (Remote, C#/SQL) |
 | 14 | **Bitexen** | Senior Backend Developer | 08.04.2026 | ✅ Başvuruldu (Python/Django) |
 | 15 | **Alchemy Global Talent Solutions** | Oracle Cloud ERP Architect | 08.04.2026 | ✅ Başvuruldu (ERP/Oracle) |
+| 16 | **Teramind** | Senior C++ Developer | 08.04.2026 | ✅ Başvuruldu (Embedded/C++) |
+| 17 | **Hitit** | System Support Specialist | 08.04.2026 | ✅ Başvuruldu (IT/Network) |
+| 18 | **Turing** | Remote C# Developer | 08.04.2026 | ✅ Başvuruldu (Remote, AI/QA) |
+| 19 | **Asis Elektronik** | Software Developer (.NET) | 08.04.2026 | ✅ Başvuruldu (Remote, .NET) |
+| 20 | **Odiin.AI** | Machine Learning Engineer | 08.04.2026 | ✅ Başvuruldu (Remote, EMEA) |
+| 21 | **Odiin.** | Back End Developer | 08.04.2026 | ✅ Başvuruldu (Remote) |
+| 22 | **Sahseh** | Back End Developer | 08.04.2026 | ✅ Başvuruldu (Remote) |
+| 23 | **Cyberr®** | Back End Developer | 08.04.2026 | ✅ Başvuruldu (Remote) |
+| 24 | **Ceffu** | IT Operations Manager | 08.04.2026 | ✅ Başvuruldu (Kayseri Opsiyonlu/Remote) |
+| 25 | **arabam.com** | Software Development Team Lead | 08.04.2026 | ✅ Başvuruldu (Kayseri/Remote) |
+| 26 | **SNI** | Senior Python Engineer | 08.04.2026 | ✅ Başvuruldu (Kayseri/Remote) |
 
 ## Sistem İşlemleri
 - [x] LinkedIn Giriş Bilgileri Doğrulandı.
@@ -33,3 +44,7 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 - [x] Crossing Hurdles başvurusu güncellendi/yenilendi.
 - [x] 2 yeni başvuru daha yapıldı: DDC ve Eminevim (Toplam: 11).
 - [x] 2 yeni başvuru daha yapıldı: Bitexen ve Alchemy (Toplam: 13).
+- [x] 2 yeni başvuru daha yapıldı: Teramind ve Hitit (Toplam: 15).
+- [x] 3 yeni başvuru daha yapıldı: Turing, Asis Elektronik, Odiin.AI (Toplam: 18).
+- [x] 3 yeni başvuru daha yapıldı: Odiin., Sahseh, Cyberr® (Toplam: 21).
+- [x] 3 yeni başvuru daha yapıldı (Kayseri odaklı): Ceffu, arabam.com, SNI (Toplam: 24).
