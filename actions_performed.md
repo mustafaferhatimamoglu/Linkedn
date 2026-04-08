@@ -17,6 +17,10 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 | 9 | **Cavendish Professionals** | Senior Python Engineer | 08.04.2026 | ✅ Başvuruldu (Remote, AI/LLM) |
 | 10 | **Sezzle** | Senior Software Engineer | 08.04.2026 | ❌ Beklemede (Transcript/Transkript istiyor) |
 | 11 | **Crossing Hurdles** | Python Developer | 08.04.2026 | ✅ Başvuruldu (Tekrar/Güncel) |
+| 12 | **Digital Development Council** | Artificial Intelligence Engineer | 08.04.2026 | ✅ Başvuruldu (Remote, AI) |
+| 13 | **Eminevim** | Senior Software Engineer | 08.04.2026 | ✅ Başvuruldu (Remote, C#/SQL) |
+| 14 | **Bitexen** | Senior Backend Developer | 08.04.2026 | ✅ Başvuruldu (Python/Django) |
+| 15 | **Alchemy Global Talent Solutions** | Oracle Cloud ERP Architect | 08.04.2026 | ✅ Başvuruldu (ERP/Oracle) |
 
 ## Sistem İşlemleri
 - [x] LinkedIn Giriş Bilgileri Doğrulandı.
@@ -27,3 +31,5 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 - [x] 1 yeni başvuru yapıldı: Cavendish Professionals (Toplam: 9).
 - [ ] Sezzle başvurusu transkript eksikliği nedeniyle taslak olarak kaydedildi.
 - [x] Crossing Hurdles başvurusu güncellendi/yenilendi.
+- [x] 2 yeni başvuru daha yapıldı: DDC ve Eminevim (Toplam: 11).
+- [x] 2 yeni başvuru daha yapıldı: Bitexen ve Alchemy (Toplam: 13).
