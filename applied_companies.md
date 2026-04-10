@@ -29,3 +29,17 @@ Bu dosya, sadece başvurulan şirketlerin ve pozisyonların bir listesini tutar.
 | Ceffu | IT Operations Manager | 08.04.2026 |
 | arabam.com | Software Development Team Lead | 08.04.2026 |
 | SNI | Senior Python Engineer | 08.04.2026 |
+| Modanisa | Microsoft Dynamics AX / ERP Danışmanı | 08.04.2026 |
+| Ravago Türkiye | Production Engineer | 08.04.2026 |
+| DEVAS ELEVATOR COMPANY | AR-GE UZMANI | 08.04.2026 |
+| Nilvera Yazılım | E-Dönüşüm Operasyon Sorumlusu | 08.04.2026 |
+| Şişecam | Data Engineer | 08.04.2026 |
+| E-Solutions | Dotnet Developer | 08.04.2026 |
+| Crs Soft | Senior Software Engineer | 08.04.2026 |
+| Randstad Türkiye | C++ Developer | 08.04.2026 |
+| Blueclip | Back End Developer | 08.04.2026 |
+| ING Türkiye | Backend Engineer | 08.04.2026 |
+| Randstad Türkiye | Junior/Mid Mobile Developer | 08.04.2026 |
+| Hesap | Backend Developer | 08.04.2026 |
+| AVD Consultancy | Data Platform Support Engineer | 08.04.2026 |
+| We Supply USA | E-commerce Automation & API Developer | 09.04.2026 |

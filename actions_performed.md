@@ -32,6 +32,20 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 | 24 | **Ceffu** | IT Operations Manager | 08.04.2026 | ✅ Başvuruldu (Kayseri Opsiyonlu/Remote) |
 | 25 | **arabam.com** | Software Development Team Lead | 08.04.2026 | ✅ Başvuruldu (Kayseri/Remote) |
 | 26 | **SNI** | Senior Python Engineer | 08.04.2026 | ✅ Başvuruldu (Kayseri/Remote) |
+| 27 | **Modanisa** | Microsoft Dynamics AX / ERP Danışmanı | 08.04.2026 | ✅ Başvuruldu (On-site, Kayseri) |
+| 28 | **Ravago Türkiye** | Production Engineer | 08.04.2026 | ✅ Başvuruldu (On-site, Kayseri) |
+| 29 | **DEVAS ELEVATOR COMPANY** | AR-GE UZMANI | 08.04.2026 | ✅ Başvuruldu (On-site, Kayseri) |
+| 30 | **Nilvera Yazılım** | E-Dönüşüm Operasyon Sorumlusu | 08.04.2026 | ✅ Başvuruldu (On-site, Kayseri) |
+| 31 | **Şişecam** | Data Engineer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
+| 32 | **E-Solutions** | Dotnet Developer | 08.04.2026 | ✅ Başvuruldu (On-site, İstanbul) |
+| 33 | **Crs Soft** | Senior Software Engineer | 08.04.2026 | ✅ Başvuruldu (On-site, İstanbul) |
+| 34 | **Randstad Türkiye** | C++ Developer | 08.04.2026 | ✅ Başvuruldu (On-site, İstanbul) |
+| 35 | **Blueclip** | Back End Developer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
+| 36 | **ING Türkiye** | Backend Engineer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
+| 37 | **Randstad Türkiye** | Junior/Mid Mobile Developer | 08.04.2026 | ✅ Başvuruldu (On-site, İstanbul) |
+| 38 | **Hesap** | Backend Developer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
+| 39 | **AVD Consultancy** | Data Platform Support Engineer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
+| 40 | **We Supply USA** | E-commerce Automation & API Developer | 09.04.2026 | ✅ Başvuruldu (Remote) |
 
 ## Sistem İşlemleri
 - [x] LinkedIn Giriş Bilgileri Doğrulandı.
@@ -48,3 +62,8 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 - [x] 3 yeni başvuru daha yapıldı: Turing, Asis Elektronik, Odiin.AI (Toplam: 18).
 - [x] 3 yeni başvuru daha yapıldı: Odiin., Sahseh, Cyberr® (Toplam: 21).
 - [x] 3 yeni başvuru daha yapıldı (Kayseri odaklı): Ceffu, arabam.com, SNI (Toplam: 24).
+- [x] 3 yeni başvuru daha yapıldı (Sadece On-Site Kayseri): Modanisa, Ravago Türkiye, DEVAS (Toplam: 27).
+- [x] 4 yeni başvuru daha yapıldı (Kayseri On-site + İstanbul On-site/Hybrid): Nilvera, Şişecam, E-Solutions, Crs Soft (Toplam: 31).
+- [x] 3 yeni başvuru daha yapıldı (İstanbul Hybrid/On-site): Randstad, Blueclip, ING Türkiye (Toplam: 34).
+- [x] 3 yeni başvuru daha yapıldı (İstanbul Teknik Final): Randstad (Mobile), Hesap, AVD Consultancy (Toplam: 37).
+- [x] 1 yeni başvuru daha yapıldı: We Supply USA (Toplam: 38).
