@@ -22,6 +22,7 @@ Bu dosya, LinkedIn başvuru formlarında ve işe alım süreçlerinde kullanıla
 ## Yanıt Parametreleri
 -   **Maaş Beklentisi:** 85.000 TL
 -   **Askerlik:** Muaf (İşe hemen başlayabilir)
+-   **Engellilik Durumu:** Hayır (Engelli aday değil)
 -   **Uzmanlık Focus:** Netsis entegrasyonu, Bilgi İşlem (Sistem/Network), Savunma Sanayii Standartları (DO-178, DO-254), Endüstriyel Otomasyon.
 
 ## Formda Karşılaşılan Sorular ve Yanıtlar
@@ -34,3 +35,5 @@ Bu dosya, LinkedIn başvuru formlarında ve işe alım süreçlerinde kullanıla
 - **Aranan Maaş (Yıllık/Aylık)?**: 85.000 TL (Aylık Net Beklenti)
 - **RAG Pipelines Deneyimi?**: Evet
 - **LLM API Entegrasyonu Deneyimi?**: Evet
+- **Vize Sponsorluğu Gereksinimi?**: Hayır (No)
+- **İngilizce Seviyesi?**: Professional (Profesyonel)

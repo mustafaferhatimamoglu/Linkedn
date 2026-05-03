@@ -46,24 +46,71 @@ Bu dosya, Mustafa Ferhat İmamoğlu adına gerçekleştirilen tüm LinkedIn baş
 | 38 | **Hesap** | Backend Developer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
 | 39 | **AVD Consultancy** | Data Platform Support Engineer | 08.04.2026 | ✅ Başvuruldu (Hybrid, İstanbul) |
 | 40 | **We Supply USA** | E-commerce Automation & API Developer | 09.04.2026 | ✅ Başvuruldu (Remote) |
+| 41 | **EGESOFT** | Yazılım Geliştirme Uzmanı | 19.04.2026 | ✅ Başvuruldu (ERP/Technical) |
+| 42 | **FARK DONANIM** | Yazılım Destek Uzmanı | 19.04.2026 | ✅ Başvuruldu (ERP Support) |
+| 43 | **ISTUN** | ERP Uygulama Uzmanı | 19.04.2026 | ✅ Başvuruldu (University/ERP) |
+| 44 | **Daniel Klein** | Nebim V3 ERP Danışmanı | 19.04.2026 | ✅ Başvuruldu (Nebim/Logo) |
+| 45 | **Crossing Hurdles** | Systems Engineer / C++ Developer | 19.04.2026 | ✅ Başvuruldu (Remote) |
+| 46 | **Ekol Lojistik** | PLC & Yazılım Destek Uzmanı | 19.04.2026 | ✅ Başvuruldu (Remote) |
+| 47 | **BiLira Kripto** | Information Security Manager | 19.04.2026 | ✅ Başvuruldu (Security/Remote) |
+| 48 | **Deloitte** | Software Engineer | 19.04.2026 | ✅ Başvuruldu (Corporate/Remote) |
+| 49 | **Codevo** | Mobile Application Developer | 19.04.2026 | ✅ Başvuruldu (Mobile/Remote) |
+| 50 | **Solgar Vitamin** | Yazılım Mimarı | 21.04.2026 | ✅ Başvuruldu (İstanbul) |
+| 51 | **Telpass** | Back-End Developer | 21.04.2026 | ✅ Başvuruldu (İstanbul) |
+| 52 | **Lentatek** | Uzman Yazılım Mühendisi | 21.04.2026 | ✅ Başvuruldu (Ankara) |
+| 53 | **İnovatif Çözümler** | Senior Engineer | 21.04.2026 | ✅ Başvuruldu (Hibrit) |
+| 54 | **TLS LOJİSTİK** | AR-GE Yazılım Mühendisi | 21.04.2026 | ✅ Başvuruldu (İstanbul) |
+| 55 | **CRONOM BİLİŞİM** | Full Stack Engineer | 21.04.2026 | ✅ Başvuruldu (İstanbul) |
+| 56 | **MECHANIMA** | C++ Yazılım Mühendisi | 21.04.2026 | ✅ Başvuruldu (Ankara) |
+| 57 | **Alarko** | Yazılım Geliştirme Uzmanı | 21.04.2026 | ✅ Başvuruldu (İstanbul) |
+
+| 58 | **Odeabank** | Backend Engineer | 24.04.2026 | ✅ Başvuruldu |
+| 59 | **QNB Sigorta** | AI Engineer (LLM & GenAI) | 24.04.2026 | ✅ Başvuruldu |
+| 60 | **ICterra** | Full Stack Software Developer | 24.04.2026 | ✅ Başvuruldu |
+| 61 | **Turkcell** | DATA ENGINEER | 24.04.2026 | ✅ Başvuruldu |
+| 62 | **Burgan Bank Türkiye** | Yazılım Uzmanı | 24.04.2026 | ✅ Başvuruldu |
+| 63 | **ANDEVOS** | Yazılım Geliştirme Uzmanı | 24.04.2026 | ✅ Başvuruldu |
+| 64 | **Migros One** | Backend Engineer | 24.04.2026 | ✅ Başvuruldu |
+| 65 | **ARD Grup** | Yazılım Mühendisi | 24.04.2026 | ✅ Başvuruldu |
+| 66 | **Freya** | DevOps Engineer | 24.04.2026 | ✅ Başvuruldu |
+| 67 | **Andela** | Software Engineer | 24.04.2026 | ✅ Başvuruldu |
+| 68 | **Crossing Hurdles** | Java Developer | 24.04.2026 | ✅ Başvuruldu |
+| 69 | **Atmosware** | JAVA DEVELOPER | 24.04.2026 | ✅ Başvuruldu |
+| 70 | **Infonal** | İş Analisti | 24.04.2026 | ✅ Başvuruldu |
+| 71 | **Zen Talent** | Data Scientist | 24.04.2026 | ✅ Başvuruldu |
+| 72 | **Intetics** | PLC engineer | 24.04.2026 | ✅ Başvuruldu |
+| 73 | **OBSS** | Full Stack Java Developer | 24.04.2026 | ✅ Başvuruldu |
+| 74 | **Crossing Hurdles** | Software Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 75 | **Deloitte** | Cloud Consultant | 25.04.2026 | ✅ Başvuruldu |
+| 76 | **Şanstech** | System & Network Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 77 | **Talentown** | Senior Software Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 78 | **Coderspace** | Full Stack Developer | 25.04.2026 | ✅ Başvuruldu |
+| 79 | **NGAMING** | Sistem Mühendisi | 25.04.2026 | ✅ Başvuruldu |
+| 80 | **CRESSOFT** | Senior AI Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 81 | **VOXTECHS** | Senior Java Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 82 | **Joveo AI** | Software Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 83 | **Gini Talent** | Fullstack Developer | 25.04.2026 | ✅ Başvuruldu |
+| 84 | **IE Media** | Frontend Developer | 25.04.2026 | ✅ Başvuruldu |
+| 85 | **Bilyoner** | Backend Developer | 25.04.2026 | ✅ Başvuruldu |
+| 86 | **UNITED Software** | Dotnet Developer | 25.04.2026 | ✅ Başvuruldu |
+| 87 | **Confidential** | Microsoft Expert | 25.04.2026 | ✅ Başvuruldu |
+| 88 | **Iris Tech** | IMS Technical Lead | 25.04.2026 | ✅ Başvuruldu |
+| 89 | **Luxoft** | Murex Release Manager | 25.04.2026 | ✅ Başvuruldu |
+| 90 | **UserWise** | Senior Mobile Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 91 | **Avenga** | AI Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 92 | **Zaigo** | Senior AI Systems Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 93 | **Guardian Professional** | .NET Backend Developer | 25.04.2026 | ✅ Başvuruldu |
+| 94 | **Crossing Hurdles** | C++ Developer | 25.04.2026 | ✅ Başvuruldu |
+| 95 | **Nobel İlaç** | AI Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 96 | **Kartaca** | Front End Developer | 25.04.2026 | ✅ Başvuruldu |
+| 97 | **DQTürkiye** | Qlik Sense Developer | 25.04.2026 | ✅ Başvuruldu |
+| 98 | **SmartICT** | Back-End Geliştirici | 25.04.2026 | ✅ Başvuruldu |
+| 99 | **Ekofin.net** | AI / LLM Engineer | 25.04.2026 | ✅ Başvuruldu |
+| 100 | **Devin Tech** | Back End Developer | 25.04.2026 | ✅ Başvuruldu |
 
 ## Sistem İşlemleri
-- [x] LinkedIn Giriş Bilgileri Doğrulandı.
-- [x] CV Analizi Yapıldı (Eğitim ve Deneyim verileri çıkarıldı).
-- [x] Başvuru Parametreleri (Maaş, Deneyim yılı) belirlendi.
-- [x] İlk 5 başvuru başarıyla tamamlandı.
-- [x] 3 yeni başvuru daha yapıldı (Toplam: 8).
-- [x] 1 yeni başvuru yapıldı: Cavendish Professionals (Toplam: 9).
-- [ ] Sezzle başvurusu transkript eksikliği nedeniyle taslak olarak kaydedildi.
-- [x] Crossing Hurdles başvurusu güncellendi/yenilendi.
-- [x] 2 yeni başvuru daha yapıldı: DDC ve Eminevim (Toplam: 11).
-- [x] 2 yeni başvuru daha yapıldı: Bitexen ve Alchemy (Toplam: 13).
-- [x] 2 yeni başvuru daha yapıldı: Teramind ve Hitit (Toplam: 15).
-- [x] 3 yeni başvuru daha yapıldı: Turing, Asis Elektronik, Odiin.AI (Toplam: 18).
-- [x] 3 yeni başvuru daha yapıldı: Odiin., Sahseh, Cyberr® (Toplam: 21).
-- [x] 3 yeni başvuru daha yapıldı (Kayseri odaklı): Ceffu, arabam.com, SNI (Toplam: 24).
-- [x] 3 yeni başvuru daha yapıldı (Sadece On-Site Kayseri): Modanisa, Ravago Türkiye, DEVAS (Toplam: 27).
-- [x] 4 yeni başvuru daha yapıldı (Kayseri On-site + İstanbul On-site/Hybrid): Nilvera, Şişecam, E-Solutions, Crs Soft (Toplam: 31).
-- [x] 3 yeni başvuru daha yapıldı (İstanbul Hybrid/On-site): Randstad, Blueclip, ING Türkiye (Toplam: 34).
-- [x] 3 yeni başvuru daha yapıldı (İstanbul Teknik Final): Randstad (Mobile), Hesap, AVD Consultancy (Toplam: 37).
-- [x] 1 yeni başvuru daha yapıldı: We Supply USA (Toplam: 38).
+- [x] LinkedIn "Easy Apply" günlük limiti doldu (25.04.2026).
+- [x] Kariyer.net "Press and Hold" captcha engeliyle karşılaşıldı.
+- [x] Toplam 100 başvuru hedefine (Genel Toplam) ulaşıldı.
+- [ ] Kariyer.net captcha çözümü için kullanıcı müdahalesi bekleniyor.
+- [ ] LinkedIn limit sıfırlanması bekleniyor.
