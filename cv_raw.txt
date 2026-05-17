@@ -1,0 +1,244 @@
+﻿=== SAYFA 1 ===
+Ízgemi■ Ízeti
+Yaz²l²mgeli■tirme,sistemy÷netimiveend³striyelotomasyonalanlar²ndatecr³beli
+BilgisayarM³hendisi.C#,Pythonvedonan²mentegrasyonuyetenekleriyleutan
+uca÷z³mler³retir.
+¦■ Deneyimleri
+Mustafa Ferhat
+Bilgisayar M³hendisi
+¦mamo­lu
+Tokg÷zGrup|Kas²m2025-Halaal²■²yorum
+Bilgisayar M³hendisi Bilgi¦■lemDepartman²
+òÌirketiiIToperasyonlar²n²ns³reklili­ininsa­lanmas²vemevcutsistemlerin
+analizi
++90(555)0051800
+òEskiERPsistemindenyeniERPaltyap²s²nagei■(migration)s³recininutanuca
+mustafaferhatimamoglu@gmai y÷netilmesivesistementegrasyonunung³venlibir■ekildetamamlanmas²
+l.com
+1996(30Ya■) Bilgi ¦■lem Uzman²
+Ìirikio­luTekstil|Mart2025-Ekim2025
+Kayseri,Kocasinan
+Kayseri,S³rekli/Tamzamanl²
+TekstilSekt÷r³,BilgiTeknolojileri/ITDepartman²
+Ízel Bilgiler
+Ìirketinbilgii■lemaltyap²s²n²ny÷netimi:sunucular,networkcihazlar²,firewallve
+g³venliksistemlerininkurulumu,bak²m²veoptimizasyonu.
+Cinsiyet
+Kurumsalyaz²l²mgeli■tirme:C#WinForms,MSSQLveDevExpresskullanarakar²za
+Erkek
+takip,fazlamesaitalep,sendikay÷netimigibi■irketiiyaz²l²mlar²ngeli■tirilmesive
+Vatanda■l²k bak²m²n²nyap²lmas².
+T³rkiyeCumhuriyeti Networkvesunucuy÷netimi:ActiveDirectory,sanalla■t²rma(VMware/Hyper-V),
+yedeklemeveverig³venli­is³relerininy÷netilmesi.
+Askerlik
+CCTVsistemleri:FabrikagenelindeIPkameravekay²tsistemlerininkurulumu,
+Askerli­imiyapt²m
+entegrasyonuvetakibi.
+S³r³c³Belgesi
+Yapayzekadesteklig÷r³nt³i■leme:▄retimhatlar²ndakalitekontrolveotomasyon
+B2,A s³relerinigeli■tirmekiing÷r³nt³i■lemeprojelerindeaktifrolalma.
+Sistem M³hendisi
+AyruzEnd³striLtd.Ìti|Ìubat2023-Aral²k2024
+Kayseri,S³rekli/Tamzamanl²
+Havac²l²kSekt÷r³,AR-GEDepartman²
+òSavunmaveHavac²l²ksanayiistandartlar²na(MIL-STD810G,DO-178,DO-254)
+uygunyaz²l²mlar²ngeli■tirilmesi
+òMIL-STD810Gevreseltestleriniotomatiktamamlayanveraporlayansistem
+tasar²m²
+Sistem M³hendisi
+ZirveBili■im|Haziran2021-Ìubat2023
+Kayseri,S³rekli/Tamzamanl²
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.
+=== SAYFA 2 ===
+Bili■imSekt÷r³,BilgiTeknolojileri/ITDepartman²
+ÌirketinBTaltyap²s²n²nkurulumu,y÷netimiveg³venli­indensorumluolarak
+sistemlerinkesintisiz,g³venilirveverimlial²■mas²n²sa­lad²m.Kurulumdan
+g³venli­ekadart³ms³relerdeaktifrolald²m.
+òBTAltyap²Y÷netimi:G³venlikduvar²,fizikselsunucular,sanalla■t²rmaortamlar²,
+NASveyedekleme÷z³mlerininkurulumunuvey÷netiminigerekle■tirdim.
+òSistemG³venli­i:ActiveDirectory,DLP,antivir³ssistemleri,UPSveiklimlendirme
+altyap²lar²n²ndevreyeal²nmas²ves³rd³r³lebiliry÷netiminisa­lad²m.
+òEntegrasyonveA­Y÷netimi:LogouyumluB2B2Centegrasyonuprojelerinde
+g÷revald²m,a­trafi­iy÷netimiveoptimizasyonus³relerindeal²■t²m.
+òG³venlikveDestek:Kameraveg³venliksistemlerininy÷netimini³stlendim,son
+kullan²c²teknikdesteks³releriniy÷nettim.
+òS³reklilikveVerimlilik:BTaltyap²lar²n²ng³venli­i,s³reklili­iveperformans²n²
+art²rmayay÷nelikal²■malarilekurumsaloperasyonlar²naksamadandevam²n²
+sa­lad²m.
+Yaz²l²m M³hendisi
+Seda■Bilgisayar|Aral²k2019-Haziran2021
+S³rekli/Tamzamanl²
+Yaz²l²mSekt÷r³
+Ìirketiiyaz²l²mentegrasyonlar²,veriy÷netimivesistemg³venli­ialanlar²nda
+g÷revalaraki■s³relerininverimli,g³venlivekesintisizilerlemesinisa­lad²m.
+òYaz²l²mEntegrasyonlar²:NetsisuyumluB2B2CveERPentegrasyonuiin÷zel
+yaz²l²m÷z³mlerigeli■tirdim.
+òEnd³striyelEntegrasyon:TURPAKuyumlubenzinistasyonuy÷netimsistemi
+entegrasyonlar²n²ba■ar²ylagerekle■tirdim.
+òSahaDijitalle■mesi:ElterminalleriiinERPuyumlugei■ekranlar²tasarlayarak
+sahaoperasyonlar²n²ndijitald÷n³■³m³nekatk²dabulundum.
+òVeriG³venli­iveRaporlama:Buluttabanl²yedeklemesistemlerive÷zel
+raporlamayaz²l²mlar²geli■tirerekverig³venli­iniveanalizs³relerinioptimize
+ettim.
+òDeneyimAlanlar²:Kurumsalyaz²l²mentegrasyonlar²,ERPsistemleri,veriy÷netimi
+vesistemg³venli­ikonular²ndakapsaml²deneyimkazand²m.
+E­itim Bilgileri
+Erciyes ▄niversitesi
+M³hendislikFak³ltesi,BilgisayarM³hendisli­i,¦ngilizce,¦kinciÍ­retim|Eyl³l2016
+-Eyl³l2023
+Lisans
+E­itims³recimdeC#veMSSQLyo­unlukludersleralarak,yaz²l²mgeli■tirmeve
+veritaban²SOLIDprensipleriveNesneY÷nelimliProgramlama(OOP)odakl²e­itim;
+bireysel÷­renmedisiplinivetak²mal²■mas²pratikleriiledesteklenmi■tir.
+Erciyes ▄niversitesi
+MakineM³hendisli­i|Eyl³l2014-Terk
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.
+=== SAYFA 3 ===
+Lisans
+Sons²n²ftabilgisayarm³hendisli­ib÷l³m³negei■yaparakoda­²m²mekanik
+sistemlerdent³msisteminentegrasyonuveyaz²l²ms³releriney÷nlendirdim.Bu
+karar,m³hendislikperspektifimigeni■leterekmekanik,yaz²l²mveelektronik
+bile■enlerinal²■t²­²sistemlerdemultidisiplinerbirbak²■a²s²kazanmam²sa­lad².
+Diller
+¦ngilizce(¦yi)
+Yetenekler
+MSSQLServer,MicrosoftActiveDirectory,Linux,Asp.Net,C,C++,C#,HTML,
+JavaScript,Python,Bask²DevreTasar²m²,DevreTasar²m²,WindowsBatchFile
+Programming,WindowsPowershell,CSS,EntityFramework,jQuery,Android
+UygulamaGeli■tirme,SQL,Bak²mOnar²m,Altium,ExcelVba,Cuda,I2C,Elektronik
+KartTamiri,Uart,AndroidJava,ElektronikDevreDizayn²,ISISPROTEUS/ARES,
+Yaz²l²mM³hendisli­i,CProgrammingLanguage,VBS,Do-160,SMD&TH(D¦P)
+dizgi,MilHizalama
+Sertifika / Seminer ve Kurslar
+strain gauge lv1
+Tusa■|Eyl³l2024
+Logo
+LOGO|Ocak2021
+E-Donusum
+Bili■im -LOGO ¦■Orta­² Sertifikalar² -Logo GO 3Sertifikas²
+logo|Temmuz2020
+Bili■im -LOGO ¦■Orta­² Sertifikalar² -Netsis Entegre.NET Sertifikas²
+logoakademi|May²s2020
+netsis bordro
+logoakademi|Mart2020
+netsis uygulama geli■tirme
+logoakademi|Ocak2020
+restnetopenxndi
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.
+=== SAYFA 4 ===
+Projeler
+Yapay Zeka Destekli G÷r³nt³ ¦■leme Sistemleri
+Nisan2025
+ProjeTan²m²:G÷r³nt³i■lemeveyapayzekaalgoritmalar²kullan²larakfarkl²
+g³venlikveotomasyonsistemlerigeli■tirildi.
+òYang²nAlg²lama:Kameralar³zerindengerekzamanl²analizileyang²nlar²n
+otomatiktespiti.
+òAraTakipveEri■imKontrol³:Giri■û²k²■yapanaralar²nkaydaal²nmas²ve
+do­rulamasonras²otomatikkap²amasistemi.
+òOtoparkY÷netimi:Hatal²parklar²ntespitivebildirilmesiiinotomatikuyar²
+sistemi.
+Kullan²lanTeknolojiler:Python,OpenCV,TensorFlow,ESP32/IoT,C#Entegrasyon
+Yaz²l²mlar²
+Katk²lar²m:Yapayzekamodele­itimlerinigerekle■tirdim,kamera
+entegrasyonlar²n²sa­lad²mvesistemlerinotomasyonaltyap²s²n²yaz²l²mtabanl²
+olarakgeli■tirdim.
+Otomatik Ãevresel Test Sistemi (DO-160 &MIL-STD-810 Uyumlu)
+Ocak2023
+ProjeTan²m²:Havac²l²kvesavunmasanayiprojelerindekullan²lanekipmanlar²n,
+DO-160veMIL-STD-810standartlar²nauygunevreseltestleriniotomatikolarak
+gerekle■tirebilecekbirsistemgeli■tirildi.
+Kullan²lanTeknolojiler:C#,.NET,MSSQL,OtomasyonDonan²mlar²
+Katk²lar²m:Testsenaryolar²n²nyaz²l²m³zerindenotomatikle■tirilmesinisa­lad²m,
+veritoplamaveraporlamaaltyap²s²n²geli■tirdim,sisteminentegrasyonve
+do­rulamas³relerindeaktifrolald²m.
+Kaanve H³rjet ûYak²t Probu Geli■tirme Projesi
+Ocak2023
+ProjeTan²m²:KaanveH³rjetuaklar²ndakullan²lmak³zereyak²tprobunun
+elektronik,mekanikveyaz²l²mtasar²m²ba■tansonageli■tirildi.
+Kullan²lanTeknolojiler:C,C#,.NET,Donan²mTasar²m²,G÷m³l³Sistemler
+Katk²lar²m:Yak²tprobununtamsistemgeli■tirmes³recinde(donan²mtasar²m²,
+g÷m³l³yaz²l²mgeli■tirme,entegrasyonvetesta■amalar²)aktifrolald²mveproje
+²kt²lar²n²nuluslararas²standartlarauygunlu­unusa­lad²m.
+G÷kbey ûVin Yaz²l²m² ve Test/ Kalibrasyon Sistemi Geli■tirme
+Ocak2023
+òProjeTan²m²:G÷kbeyhelikopterindekullan²lmak³zerevincinyaz²l²m²,testve
+kalibrasyonsistemiilemekanikyap²s²geli■tirildi.
+òKullan²lanTeknolojiler:C,C#,.NET,MSSQL,G÷m³l³Sistemler,MekanikTasar²m
+òKatk²lar²m:Vinkontrolyaz²l²m²n²geli■tirdim,testvekalibrasyons³relerini
+yaz²l²mtabanl²otomasyonileoptimizeettim.Ayr²camekaniksistemintasar²m²ve
+entegrasyonundaaktifg÷revald²m.
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.
+=== SAYFA 5 ===
+Yay Test ve Ím³r Cihaz² Geli■tirme
+Ocak2023
+ProjeTan²m²:30gû100kgaras²yaylar²n÷m³r,kalibrasyonvetests³relerini
+otomatikolarakgerekle■tirebilecekcihazgeli■tirildi.
+Kullan²lanTeknolojiler:C,C#,.NET,MSSQL,Sens÷rTeknolojileri,MekanikTasar²m
+Katk²lar²m:Testve÷m³rsim³lasyonuiinyaz²l²mgeli■tirdim,sens÷rtabanl²veri
+toplamavekalibrasyonaltyap²s²n²tasarlad²m.Ayr²cacihaz²nmekaniksistem
+tasar²m²veentegrasyonundaaktifrolald²m.
+Flowmetre Kalibrasyon ve Test Sistemi (-55░C ile +140░C Aral²­²)
+Ocak2023
+ProjeTan²m²:-55░Cile+140░Cs²cakl²karal²­²ndaal²■abilenflowmetrekalibrasyon
+vetestsistemigeli■tirildi.
+Kullan²lanTeknolojiler:C,C#,.NET,MSSQL,Sens÷rTeknolojileri,TestOtomasyonu
+Katk²lar²m:Testvekalibrasyonyaz²l²mlar²n²geli■tirdim,sens÷rentegrasyonlar²n²
+gerekle■tirdimvey³kseks²cakl²k/so­uklukko■ullar²ndasistemdo­rulama
+s³releriniy÷nettim.
+Ízel Erciyes Hastanesi ûDijital D÷n³■³m ve PACS Entegrasyonu
+Ocak2022
+ProjeTan²m²:1970modelt²bbicihazlar²nmodernPACS(PictureArchivingand
+CommunicationSystem)altyap²s²nauygun²kt²verebilmesiiinarayaz²l²m
+÷z³mlerigeli■tirildi.B÷yleceeskinesilcihazlar²ndijitalsa­l²ksistemine
+entegrasyonusa­land².
+Kullan²lanTeknolojiler:C#,.NET,HL7/DICOM,MSSQL
+Katk²lar²m:Arayaz²l²mlar²ntasar²mvegeli■tirmes³releriniy÷nettim,veri
+d÷n³■t³rmealgoritmalar²n²olu■turdumvePACSuyumlulu­unusa­layarak
+cihazlar²nmodernsistemlereentegrasyonunugerekle■tirdim.
+Furkan Baysak Pastaneleri ûB2B Sipari■ ve Fatura Y÷netim Sistemi
+Ocak2022
+ProjeTan²m²:LogoERPileentegreal²■anB2Bsistemigeli■tirildi.T³mbayilerin
+sipari■,irsaliyevefaturai■lemlerinitekplatform³zerindeny÷netebilmesisa­land².
+Kullan²lanTeknolojiler:ASP.NET,MSSQL
+Katk²lar²m:Entegrasyons³relerinitasarlad²m,veritaban²yap²s²n²kurdumve
+kullan²c²dostubiraray³zgeli■tirdim.
+Seda■ ûB2B2C Sistemleri ve Entegrasyon Projeleri
+Ocak2021
+ProjeTan²m²:Seda■iinB2B2Cplatformlar²,ERPveCRMentegrasyonlar²
+geli■tirildi;PCI-DSSsertifikasyonunauygung³venli÷demealtyap²s²kuruldu.
+Kullan²lanTeknolojiler:ASP.NET,C#,MSSQL,WebAPI,EntegrasyonServisleri
+Katk²lar²m:ERP(Netsis/Logo)veCRMsistemleriyleentegrasyonmod³llerini
+geli■tirdim,B2B2Cs³relerindesipari■,faturavem³■teriy÷netimii■levlerini
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.
+=== SAYFA 6 ===
+tasarlad²m.Ayr²caPCI-DSSsertifikal²g³venli÷demesistemlerininyaz²l²mve
+entegrasyons³relerindeaktifrolald²m.
+Ak²ll² Ìehir Ayd²nlatma ve IoT Sistemi
+Ocak2018
+ProjeTan²m²:ESP32tabanl²mesha­mimarisikullan²larakak²ll²■ehirayd²nlatma
+sistemigeli■tirildi.Sistem,tam■ehirkapsam²sa­layacak■ekilde÷leklenebilir
+yap²datasarland².
+Ízellikler:
+òESP32Mesha­²(NodeveBridgeyap²s²)
+òTam■ehirkapsam²iin÷leklenebilira­topolojisi
+òÍzelle■tirilebilirsens÷rentegrasyonlar²(²■²k,hareket,evreselsens÷rler)
+òAnl²ktan²lamavedurumraporlama(real-timemonitoring)
+Kullan²lanTeknolojiler:ESP32Microcontrollers,MQTT,NetworkTopology,C/C++,
+IoTSens÷rleri
+Katk²lar²m:Mesha­yap²s²n²tasarlad²m,ESP32cihazlar²n²nyaz²l²mgeli■tirmesini
+yapt²m,sens÷rentegrasyonlar²n²sa­lad²mveanl²kveriiletimiiinMQTTtabanl²
+haberle■mealtyap²s²kurdum.
+Referanslar
+Deniz Ã¦FÃ¦,Y÷neticiT³rke
+NoventumBili■im,K²demliBilgi¦■lemUzman²
+E-Posta:denizcifci38@gmail.com
+Telefon:+90(541)8781938
+Hobi ve ¦lgi Alanlar²
+Sporvefitnessaktiviteleri
+Y³zme
+Finansalpiyasalarveborsatakibi
+RCCar(uzaktankumandal²aralar)ileilgilenmek
+Sosyal Medya Ba­lant²lar²
+linkedin.com/in/mustafaferhatimamoglu/
+github.com/mustafaferhatimamoglu
+Bu÷zgemi■,hesapsahibitaraf²ndanindirilmi■tir.

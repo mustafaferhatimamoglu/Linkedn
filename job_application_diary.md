@@ -166,3 +166,34 @@ Bu belge, "Görev 100" kapsamında yapılan tüm başvuruların ve hazırlanan �
 | 160 | 2026-05-02 | Akakçe | Sr. Backend Developer | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
 | 161 | 2026-05-02 | Hired | Backend Engineer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
 | 162 | 2026-05-02 | Avenga | Senior .NET Software Engineer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 163 | 2026-05-03 | OBSS | .NET Full Stack Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 164 | 2026-05-03 | Quik Hire Staffing | Go Developer (Remote) | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 165 | 2026-05-03 | Hire Feed | Full Stack Engineer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 166 | 2026-05-03 | endorfyn | Yazılım Mühendisi | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 167 | 2026-05-03 | Boston Link | Senior C++ Developer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 168 | 2026-05-03 | Netcad | Software Engineer | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 169 | 2026-05-03 | Gama Mühendislik | Ön Uç Geliştirici | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 170 | 2026-05-03 | Şanstech | Senior .Net Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 171 | 2026-05-03 | EHSİM | Kıdemli Bilgi Teknolojileri Sistem Mühendisi | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 172 | 2026-05-03 | Aeris | Kıdemli Sistem Mühendisi | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 173 | 2026-05-03 | Hired | Software QA Engineer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 174 | 2026-05-03 | Monster Notebook | Senior Backend Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 175 | 2026-05-03 | FuzulEv | Full Stack Engineer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 176 | 2026-05-03 | Agito | AI Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 177 | 2026-05-03 | Milvus Robotics | QA Engineer | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 178 | 2026-05-03 | ING Türkiye | Software Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 179 | 2026-05-03 | Turkcell | BACKEND DEVELOPER (BiP) | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 180 | 2026-05-03 | Sourced | Software Engineer III | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 181 | 2026-05-03 | Crossing Hurdles | Backend Engineer (JSON Schema) | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 182 | 2026-05-03 | Jotform | Data Engineer | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 183 | 2026-05-03 | Quik Hire Staffing | Robotics Software Engineer | Uzaktan | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 184 | 2026-05-03 | ICterra | Veri Mühendisi (Data Engineer) | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 185 | 2026-05-03 | OBSS | Site Reliability Engineer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 186 | 2026-05-03 | Etiya | Senior Specialist | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 187 | 2026-05-03 | Yataş Grup | BPM Yazılım Geliştirme Uzmanı | Kayseri | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 188 | 2026-05-03 | STM | Kıdemli Yazılım Mühendisi | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 189 | 2026-05-03 | MASTERDEFENCE | Kıdemli Sistem Mühendisi | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 190 | 2026-05-03 | BtcTurk | Teknoloji | Flutter Developer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 191 | 2026-05-03 | Migros One | DevOps Engineer | İstanbul | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 192 | 2026-05-03 | Alyo Bilisim A.S. | Frontend Developer | Ankara | LinkedIn Easy Apply ile başvuruldu. | ✅ Tamamlandı |
+| 193 | 2026-05-17 | Gürbağ Savunma | Kıdemli Gömülü Yazılım Mühendisi | Ankara (Yenimahalle) | Gömülü sistemler, C/C++ ve savunma sanayii standartlarındaki derin tecrübemle ekibinize değer katmak isterim. | ✅ Tamamlandı |

@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mustafa Ferhat İmamoğlu - Kıdemli Sistem ve Yazılım Mühendisi</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --primary-light: #eff6ff;
+            --secondary-color: #1e293b;
+            --text-color: #334155;
+            --text-light: #64748b;
+            --bg-color: #f8fafc;
+            --white: #ffffff;
+            --border-color: #e2e8f0;
+            --accent-color: #0ea5e9;
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            position: relative;
+        }
+
+        /* Sidebar Styles */
+        .sidebar {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 2.5rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            height: max-content;
+            position: sticky;
+            top: 2rem;
+        }
+
+        .profile-section {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .name {
+            color: var(--secondary-color);
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .title {
+            color: var(--primary-color);
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+
+        .contact-info {
+            margin-bottom: 2.5rem;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        .contact-item i {
+            width: 30px;
+            color: var(--primary-color);
+            font-size: 1.1rem;
+        }
+
+        .contact-item a {
+            color: inherit;
+            text-decoration: none;
+            transition: var(--transition);
+        }
+
+        .contact-item a:hover {
+            color: var(--primary-color);
+        }
+
+        .sidebar-section-title {
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--primary-light);
+            font-weight: 600;
+        }
+
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .skill-tag {
+            background: var(--primary-light);
+            color: var(--primary-color);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: var(--transition);
+        }
+
+        .skill-tag i {
+            margin-right: 0.35rem;
+            font-size: 1em;
+            vertical-align: -0.1em;
+        }
+
+        .skill-tag:hover {
+            background: var(--primary-color);
+            color: var(--white);
+            transform: translateY(-2px);
+        }
+
+        /* Main Content Styles */
+        .main-content {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 3rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            color: var(--secondary-color);
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .section-title i {
+            color: var(--primary-color);
+            background: var(--primary-light);
+            padding: 0.8rem;
+            border-radius: 12px;
+            font-size: 1.1rem;
+        }
+
+        .summary-text {
+            color: var(--text-color);
+            font-size: 1.05rem;
+            line-height: 1.8;
+            text-align: justify;
+        }
+
+        /* Compact Career List */
+        .career-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .career-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+            background: var(--bg-color);
+            border-radius: 12px;
+            border-left: 4px solid var(--primary-color);
+            transition: var(--transition);
+        }
+
+        .career-item:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .career-main {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .career-company {
+            font-weight: 700;
+            color: var(--secondary-color);
+            font-size: 1.1rem;
+        }
+
+        .career-title {
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        .career-date {
+            background: var(--white);
+            color: var(--primary-color);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border: 1px solid var(--border-color);
+        }
+
+        /* Grid Layouts */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .project-card {
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: var(--transition);
+            background: var(--white);
+        }
+
+        .project-card:hover {
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+            border-color: var(--primary-light);
+            transform: translateY(-3px);
+        }
+
+        .project-title {
+            color: var(--secondary-color);
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-tech {
+            font-size: 0.85rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .project-desc {
+            font-size: 0.95rem;
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        /* Timeline (Education & Details) */
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 2px;
+            background: var(--border-color);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2rem;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -2.35rem;
+            top: 0.3rem;
+            width: 1rem;
+            height: 1rem;
+            background: var(--white);
+            border: 3px solid var(--primary-color);
+            border-radius: 50%;
+            z-index: 1;
+            box-shadow: 0 0 0 4px var(--primary-light);
+        }
+
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+
+        .item-title {
+            color: var(--secondary-color);
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .item-subtitle {
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+
+        .item-date {
+            color: var(--primary-color);
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .cert-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .cert-item {
+            padding: 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cert-name {
+            font-weight: 600;
+            color: var(--secondary-color);
+            margin-bottom: 0.3rem;
+        }
+
+        .cert-org {
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+
+        /* Hobbies (Moved to Bottom) */
+        .hobbies-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .hobby-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--bg-color);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            color: var(--text-color);
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .hobby-item i {
+            color: var(--primary-color);
+        }
+
+        /* Responsive */
+        @media (max-width: 992px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                position: relative;
+                top: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .career-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+            .timeline-header {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+        }
+
+        /* PRINT STYLES */
+        @media print {
+            body {
+                background: var(--white);
+                color: #000;
+                font-size: 0.95rem;
+            }
+            .container {
+                display: block;
+                padding: 0;
+                max-width: 100%;
+                position: relative;
+            }
+            .qr-code-top {
+                right: 0 !important;
+                top: 0 !important;
+            }
+            .sidebar {
+                position: static;
+                box-shadow: none;
+                padding: 0 0 1rem 0;
+                border-right: none;
+                border-bottom: 2px solid var(--border-color);
+                margin-bottom: 1.5rem;
+                page-break-after: avoid;
+            }
+            .profile-section {
+                text-align: left;
+                margin-bottom: 1rem;
+            }
+            .contact-info {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1rem;
+                margin-bottom: 1rem;
+            }
+            .contact-item {
+                margin-bottom: 0;
+            }
+            .sidebar-section-title {
+                border-bottom: none;
+                margin-bottom: 0.5rem;
+                font-size: 1.1rem;
+            }
+            .skills-list {
+                gap: 0.3rem;
+                margin-bottom: 0;
+            }
+            .skill-tag {
+                border: 1px solid var(--border-color);
+                background: transparent;
+                color: #000;
+                padding: 0.2rem 0.5rem;
+                font-size: 0.85rem;
+            }
+            .main-content {
+                box-shadow: none;
+                padding: 0;
+                border-radius: 0;
+            }
+            .section {
+                margin-bottom: 1.5rem;
+            }
+            .section-title {
+                font-size: 1.4rem;
+                margin-bottom: 1rem;
+                padding-bottom: 0.3rem;
+                border-bottom: 1px solid var(--border-color);
+                page-break-after: avoid;
+            }
+            .section-title i {
+                background: transparent;
+                padding: 0;
+                margin-right: 0.5rem;
+                color: #000;
+            }
+            .career-item {
+                page-break-inside: avoid;
+                border: 1px solid var(--border-color);
+                padding: 0.8rem;
+                margin-bottom: 0.5rem;
+            }
+            .project-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .project-card {
+                page-break-inside: avoid;
+                border: 1px solid #ccc;
+                padding: 1rem;
+            }
+            .hobby-item {
+                border: 1px solid var(--border-color);
+            }
+            .contact-item a {
+                text-decoration: none;
+            }
+            .name {
+                font-size: 1.8rem;
+            }
+            .title {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- QR Code (Top Right) -->
+        <div class="qr-code-top" style="display: none; position: absolute; right: 2rem; top: 2rem; text-align: center; z-index: 10;">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=90x90&data=https://linkedin.com/in/mustafaferhatimamoglu/" alt="LinkedIn QR Code" style="border-radius: 8px; border: 1px solid var(--border-color); padding: 3px; width: 90px; height: 90px; background: white;">
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="profile-section">
+                <h1 class="name">Mustafa Ferhat İmamoğlu</h1>
+                <h2 class="title">Kıdemli Sistem ve Yazılım Mühendisi</h2>
+            </div>
+
+            <div class="contact-info">
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:mustafaferhatimamoglu@gmail.com">mustafaferhatimamoglu@gmail.com</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <a href="tel:+905550051800">+90 (555) 005 18 00</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Kayseri, Kocasinan / Türkiye</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-linkedin"></i>
+                    <a href="https://linkedin.com/in/mustafaferhatimamoglu/" target="_blank">linkedin.com/in/mustafaferhatimamoglu</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-github"></i>
+                    <a href="https://github.com/mustafaferhatimamoglu" target="_blank">github.com/mustafaferhatimamoglu</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-calendar"></i>
+                    <span>Doğum Yılı: 1996</span>
+                </div>
+                <div class="contact-item">
+                    <div style="min-width: 38px; color: var(--primary-color); font-size: 1.1rem; display: flex; align-items: center; gap: 4px;">
+                        <i class="fas fa-car" style="width: auto;"></i>
+                        <i class="fas fa-motorcycle" style="width: auto; font-size: 0.85rem;"></i>
+                    </div>
+                    <span>Sürücü Belgesi: A, B</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-check-circle"></i>
+                    <span>Askerlik: İlişiği Yoktur</span>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 2rem;">
+                <h3 class="sidebar-section-title">Yetenekler & Teknolojiler</h3>
+                <div class="skills-list">
+                    <span class="skill-tag"><i class="fab fa-microsoft"></i>C# / .NET Core</span>
+                    <span class="skill-tag"><i class="fab fa-python"></i>Python</span>
+                    <span class="skill-tag"><i class="fas fa-database"></i>MSSQL / MySQL</span>
+                    <span class="skill-tag"><i class="fas fa-network-wired"></i>RESTful API</span>
+                    <span class="skill-tag"><i class="fas fa-cube"></i>OOP & SOLID</span>
+                    <span class="skill-tag"><i class="fas fa-users-cog"></i>Active Directory</span>
+                    <span class="skill-tag"><i class="fas fa-server"></i>VMware</span>
+                    <span class="skill-tag"><i class="fas fa-server"></i>Hyper-V</span>
+                    <span class="skill-tag"><i class="fas fa-shield-alt"></i>Fortigate</span>
+                    <span class="skill-tag"><i class="fas fa-shield-alt"></i>Sophos</span>
+                    <span class="skill-tag"><i class="fab fa-linux"></i>Linux / Win Server</span>
+                    <span class="skill-tag"><i class="fas fa-code"></i>C / C++</span>
+                    <span class="skill-tag"><i class="fas fa-microchip"></i>IoT (ESP32) & MQTT</span>
+                    <span class="skill-tag"><i class="fas fa-eye"></i>OpenCV / TensorFlow</span>
+                    <span class="skill-tag"><i class="fas fa-memory"></i>Donanım & Baskı Devre</span>
+                    <span class="skill-tag"><i class="fas fa-layer-group"></i>Altium / Proteus</span>
+                    <span class="skill-tag"><i class="fas fa-chart-pie"></i>ERP (Logo, Netsis)</span>
+                    <span class="skill-tag"><i class="fas fa-exchange-alt"></i>B2B/B2C Entegrasyon</span>
+                    <span class="skill-tag"><i class="fas fa-notes-medical"></i>HL7 / DICOM</span>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="sidebar-section-title">Yabancı Diller</h3>
+                <div class="contact-item" style="margin-bottom: 0;">
+                    <i class="fas fa-globe"></i>
+                    <div style="display: flex; flex-direction: column; width: 100%;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
+                            <span>İngilizce</span>
+                            <span style="color: var(--text-light); font-size: 0.85rem;">İyi Seviye</span>
+                        </div>
+                        <div style="display: flex; gap: 4px;">
+                            <div style="height: 6px; flex: 1; background: var(--primary-color); border-radius: 3px;"></div>
+                            <div style="height: 6px; flex: 1; background: var(--primary-color); border-radius: 3px;"></div>
+                            <div style="height: 6px; flex: 1; background: var(--primary-color); border-radius: 3px;"></div>
+                            <div style="height: 6px; flex: 1; background: var(--primary-color); border-radius: 3px;"></div>
+                            <div style="height: 6px; flex: 1; background: var(--border-color); border-radius: 3px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            
+            <section class="section">
+                <h2 class="section-title">
+                    <i class="fas fa-user-tie"></i>
+                    Profil Özeti
+                </h2>
+                <p class="summary-text">
+                    Yazılım geliştirme, sistem entegrasyonu ve endüstriyel otomasyon projelerinde 6 yılı aşkın deneyime sahip Kıdemli Sistem ve Yazılım Mühendisi. C#, .NET ve Python teknolojilerinde uzmanlaşmış olup, donanım-yazılım entegrasyonu, yapay zeka destekli görüntü işleme, ERP/B2B sistem mimarileri ve savunma sanayii standartlarında uçtan uca çözümler üretmektedir. Makine ve bilgisayar mühendisliği disiplinlerini harmanlayarak, karmaşık problemlere yenilikçi, ölçeklenebilir ve yüksek performanslı sistem mimarileri ile yaklaşmaktadır.
+                </p>
+            </section>
+
+
+
+            <section class="section">
+                <h2 class="section-title">
+                    <i class="fas fa-project-diagram"></i>
+                    Öne Çıkan Projeler
+                </h2>
+                <div class="project-grid">
+                    <div class="project-card">
+                        <h3 class="project-title">Yapay Zeka Destekli Görüntü İşleme Sistemleri</h3>
+                        <div class="project-tech">Python, OpenCV, TensorFlow, ESP32, C#</div>
+                        <p class="project-desc">Gerçek zamanlı yangın algılama, araç takip, otomatik kapı açma ve otopark yönetimi sistemlerinin geliştirilmesi ve model eğitimleri.</p>
+                    </div>
+                    <div class="project-card">
+                        <h3 class="project-title">Otomatik Çevresel Test Sistemi</h3>
+                        <div class="project-tech">C#, .NET, MSSQL, Otomasyon Donanımları</div>
+                        <p class="project-desc">Havacılık ve savunma sanayi için DO-160 & MIL-STD-810 standartlarına uygun otomatik çevresel test ve raporlama sistemi.</p>
+                    </div>
+                    <div class="project-card">
+                        <h3 class="project-title">Kaan ve Hürjet Yakıt Probu</h3>
+                        <div class="project-tech">C, C#, .NET, Gömülü Sistemler</div>
+                        <p class="project-desc">Uçaklarda kullanılmak üzere yakıt probunun elektronik, mekanik ve yazılım tasarımının baştan sona geliştirilmesi.</p>
+                    </div>
+                    <div class="project-card">
+                        <h3 class="project-title">Gökbey Vinç Kontrol Yazılımı</h3>
+                        <div class="project-tech">C, C#, .NET, MSSQL</div>
+                        <p class="project-desc">Gökbey helikopteri vincinin yazılımı, test ve kalibrasyon sistemi ile mekanik yapısının geliştirilmesi.</p>
+                    </div>
+                    <div class="project-card">
+                        <h3 class="project-title">Akıllı Şehir Aydınlatma ve IoT Sistemi</h3>
+                        <div class="project-tech">ESP32, MQTT, C/C++</div>
+                        <p class="project-desc">ESP32 tabanlı mesh ağ mimarisi kullanılarak tam şehir kapsamı sağlayacak ölçeklenebilir akıllı aydınlatma sistemi.</p>
+                    </div>
+                    <div class="project-card">
+                        <h3 class="project-title">PACS Entegrasyonu (Erciyes Hastanesi)</h3>
+                        <div class="project-tech">C#, .NET, HL7/DICOM, MSSQL</div>
+                        <p class="project-desc">Eski nesil tıbbi cihazların modern dijital sağlık sistemine entegrasyonu için ara yazılım çözümleri.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2 class="section-title">
+                    <i class="fas fa-history"></i>
+                    Detaylı İş Deneyimleri
+                </h2>
+                <div class="timeline">
+                    <!-- Experience 1 -->
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Bilgisayar Mühendisi</h3>
+                                <div class="item-subtitle">Tokgöz Grup</div>
+                            </div>
+                            <span class="item-date">Kasım 2025 - Devam Ediyor</span>
+                        </div>
+                        <div class="item-desc">
+                            <ul>
+                                <li>Şirket içi IT operasyonlarının sürekliliğinin sağlanması ve mevcut sistemlerin analizi.</li>
+                                <li>Eski ERP sisteminden yeni ERP altyapısına geçiş (migration) sürecinin uçtan uca yönetilmesi ve sistem entegrasyonunun güvenli bir şekilde tamamlanması.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Experience 2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Bilgi İşlem Uzmanı</h3>
+                                <div class="item-subtitle">Şirikçioğlu Tekstil</div>
+                            </div>
+                            <span class="item-date">Mart 2025 - Ekim 2025</span>
+                        </div>
+                        <div class="item-desc">
+                            <ul>
+                                <li><strong>IT Altyapı Yönetimi:</strong> Sunucular, network cihazları, firewall ve güvenlik sistemlerinin kurulumu, bakımı ve optimizasyonu.</li>
+                                <li><strong>Yazılım Geliştirme:</strong> C# WinForms, MSSQL ve DevExpress kullanarak arıza takip, fazla mesai talep, sendika yönetimi gibi şirket içi yazılımların geliştirilmesi.</li>
+                                <li><strong>Sistem Yönetimi:</strong> Active Directory, sanallaştırma (VMware/Hyper-V), yedekleme ve veri güvenliği süreçlerinin yönetilmesi.</li>
+                                <li><strong>Yapay Zeka:</strong> Üretim hatlarında kalite kontrol ve otomasyon süreçlerini geliştirmek için görüntü işleme projelerinde aktif rol alma.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Experience 3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Sistem Mühendisi</h3>
+                                <div class="item-subtitle">Ayruz Endüstri Ltd. Şti (AR-GE)</div>
+                            </div>
+                            <span class="item-date">Şubat 2023 - Aralık 2024</span>
+                        </div>
+                        <div class="item-desc">
+                            <ul>
+                                <li>Savunma ve Havacılık sanayii standartlarına (MIL-STD810G, DO-178, DO-254) uygun yazılımların geliştirilmesi.</li>
+                                <li>MIL-STD810G çevresel testlerini otomatik tamamlayan ve raporlayan sistem tasarımı.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Experience 4 -->
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Sistem Mühendisi</h3>
+                                <div class="item-subtitle">Zirve Bilişim</div>
+                            </div>
+                            <span class="item-date">Haziran 2021 - Şubat 2023</span>
+                        </div>
+                        <div class="item-desc">
+                            <ul>
+                                <li>Güvenlik duvarı, fiziksel sunucular, sanallaştırma ortamları, NAS ve yedekleme çözümlerinin kurulumu ve yönetimi.</li>
+                                <li>Active Directory, DLP, antivirüs sistemleri devreye alınması. Logo uyumlu B2B2C entegrasyonu projeleri.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Experience 5 -->
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Yazılım Mühendisi</h3>
+                                <div class="item-subtitle">Sedaş Bilgisayar</div>
+                            </div>
+                            <span class="item-date">Aralık 2019 - Haziran 2021</span>
+                        </div>
+                        <div class="item-desc">
+                            <ul>
+                                <li>Netsis uyumlu B2B2C ve ERP entegrasyonu için özel yazılım çözümleri.</li>
+                                <li>TURPAK uyumlu benzin istasyonu yönetim sistemi entegrasyonları.</li>
+                                <li>El terminalleri için ERP uyumlu geçiş ekranları tasarlanması.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2 class="section-title">
+                    <i class="fas fa-graduation-cap"></i>
+                    Eğitim Bilgileri
+                </h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Bilgisayar Mühendisliği (Lisans)</h3>
+                                <div class="item-subtitle">Erciyes Üniversitesi (İngilizce, İkinci Öğretim)</div>
+                            </div>
+                            <span class="item-date">2016 - 2023</span>
+                        </div>
+                        <p style="font-size: 0.95rem; margin-top: 0.5rem; color: var(--text-color);">C# ve MSSQL yoğunluklu eğitim, SOLID prensipleri ve Nesne Yönelimli Programlama odaklı yaklaşım.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            <div>
+                                <h3 class="item-title">Makine Mühendisliği (Terk)</h3>
+                                <div class="item-subtitle">Erciyes Üniversitesi</div>
+                            </div>
+                            <span class="item-date">2014</span>
+                        </div>
+                        <p style="font-size: 0.95rem; margin-top: 0.5rem; color: var(--text-color);">Son sınıfta bilgisayar mühendisliğine geçiş yapılarak sistem entegrasyonu ve multidisipliner mühendislik vizyonu kazanıldı.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2 class="section-title">
+                    <i class="fas fa-certificate"></i>
+                    Sertifika ve Eğitimler
+                </h2>
+                <div class="cert-list">
+                    <div class="cert-item">
+                        <span class="cert-name">Strain Gauge LV1</span>
+                        <span class="cert-org"><i class="fas fa-building" style="margin-right:0.3rem;"></i>TUSAŞ (Eylül 2024)</span>
+                    </div>
+                    <div class="cert-item">
+                        <span class="cert-name">Logo GO 3 Sertifikası</span>
+                        <span class="cert-org"><i class="fas fa-building" style="margin-right:0.3rem;"></i>Logo Akademi (Ocak 2021)</span>
+                    </div>
+                    <div class="cert-item">
+                        <span class="cert-name">Netsis Entegre.NET Sertifikası</span>
+                        <span class="cert-org"><i class="fas fa-building" style="margin-right:0.3rem;"></i>Logo Akademi (Temmuz 2020)</span>
+                    </div>
+                    <div class="cert-item">
+                        <span class="cert-name">Netsis Bordro</span>
+                        <span class="cert-org"><i class="fas fa-building" style="margin-right:0.3rem;"></i>Logo Akademi (Mayıs 2020)</span>
+                    </div>
+                    <div class="cert-item">
+                        <span class="cert-name">Netsis Uygulama Geliştirme</span>
+                        <span class="cert-org"><i class="fas fa-building" style="margin-right:0.3rem;"></i>Logo Akademi (Mart 2020)</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" style="margin-bottom: 0;">
+                <h2 class="section-title">
+                    <i class="fas fa-heart"></i>
+                    İlgi Alanları
+                </h2>
+                <div class="hobbies-list">
+                    <div class="hobby-item">
+                        <i class="fas fa-dumbbell"></i>
+                        <span>Spor ve Fitness</span>
+                    </div>
+                    <div class="hobby-item">
+                        <i class="fas fa-swimmer"></i>
+                        <span>Yüzme</span>
+                    </div>
+                    <div class="hobby-item">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Finansal Piyasalar</span>
+                    </div>
+                    <div class="hobby-item">
+                        <i class="fas fa-car-side"></i>
+                        <span>RC Car (Kumandalı Araçlar)</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" style="margin-top: 3rem; margin-bottom: 0; text-align: center; border-top: 1px solid var(--border-color); padding-top: 2rem; page-break-inside: avoid;">
+                <p style="color: var(--text-light); font-style: italic; font-size: 0.95rem;">
+                    <i class="fas fa-info-circle" style="margin-right: 0.5rem; color: var(--primary-color);"></i>
+                    Referanslar talep üzerine sağlanacaktır.
+                </p>
+            </section>
+
+        </main>
+    </div>
+</body>
+</html>
